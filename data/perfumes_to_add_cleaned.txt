@@ -1,0 +1,38 @@
+Brand,Perfume Name,Type,Notes,Gender,Price
+Naseem,African Sunset,Eau de Parfum,Bergamot; Pink Pepper, Geranium; Ginger; Leather; Pear, Moss; Benzoin; Cedarwood; Sandalwood; Patchouli,Masculine,105 AED
+Naseem,Abaq Najd,Air Freshener (300ml),Lemon; Orange; Fresh accord, Apple; Raspberry; Pineapple; Aquatic; Green notes, Cedarwood; Dry wood; Patchouli; Sandalwood,Unisex,31.5 AED
+Naseem,Musk Safi (Perfume Oil),Concentrated Oil (12ml),White Musk; Floral notes (var.), Rose; Powdery notes, White Amber; Sandalwood,Unisex,75 AED
+Naseem,Hypnotic Passion,Eau de Parfum,Red Berries; Saffron, Rose; Jasmine, Vanilla; Amber; Oud,Feminine,150 AED
+Naseem,Zakiya,Eau de Parfum,Bergamot; Peach, Orange Blossom; Orris, Oud; Musk; Vanilla,Feminine,120 AED
+Gissah,Imperial Valley,All-Over Spray (EDP),Davana; Bergamot; Pink Pepper, White Amber; Rosemary; Oud, Musk; Leather; Vetiver,Unisex,15.000 KWD
+Gissah,La Luna,Eau de Parfum,Berries; Citrus, Praline; Rose; Jasmine, Vanilla; Musk,Unisex,23.000 KWD
+Gissah,Akoya,Eau de Parfum,Passionfruit; Tropical Fruits, Tiare Flower; Coconut, Ambergris; Musk,Unisex,23.000 KWD
+Gissah,One & Only,Eau de Parfum,Bergamot; Saffron, Rose; Caramel, Oud; Vanilla; Amber,Feminine,23.000 KWD
+Gissah,Modern Heritage,Eau de Parfum,Bergamot; Lavender, Leather; Cypress, Oud; Tonka; Amber,Masculine,45.000 KWD
+Gissah,Abdul Majeed Abdullah (Ayesh Saeed),Eau de Parfum,Lime; Apple; Ginger, Rose; Violet; Cardamom, Cedar; Amber; Oakmoss,Masculine,30.000 KWD
+Gissah,Capri,Eau de Parfum,Lemon; Green Notes, Jasmine; Marine Notes, White Musk; Cedar,Unisex,15.000 KWD
+Gissah,Timeless - Momento,Eau de Parfum,Raspberry; Saffron, Rose; Patchouli, Leather; Caramel; Woods,Unisex,29.000 KWD
+Reef,Pesca,Eau de Parfum,Peach, Iris, Maté (Herbal Tea),Feminine,135 USD
+Reef,Bluest,Eau de Parfum,Blueberry; Bergamot, Jasmine; Orris, Vanilla; Musk,Unisex,125 USD
+Reef,Reef 33,Eau de Parfum,Grapefruit; Plum, Rose; Jasmine, Amber; Cedarwood; Musk,Unisex,120 USD
+Reef,Reef 21,Eau de Parfum,Lemon; Marine notes, Cardamom; Lavender, Oakmoss; Ambergris; Musk,Unisex,110 USD
+Reef,Volcano,Eau de Parfum,Apple; Cinnamon, Guaiac Wood; Clove, Smoke; Leather; Cedar,Masculine,125 USD
+Reef,Abaya,Eau de Parfum,Red Berries; Rose, Praline; Patchouli, Oud; Vanilla; Musk,Feminine,125 USD
+Reef,Diriyah,Eau de Parfum,Saffron; Orange Blossom, Oud; Cedar, Incense; Amber,Unisex,140 USD
+Reef,I ❤ KSA 94,Eau de Parfum,Lime; Apple; Violet Leaf, Jasmine; Cardamom, Leather; Vetiver; Amber,Masculine,94 USD
+Amouage,Gold Man,Eau de Parfum,Lily-of-the-Valley; Rock Rose (Cistus); Frankincense, Jasmine; Iris; Myrrh, Civet; Oakmoss; Ambergris; Cedarwood; Sandalwood; Musk; Patchouli,Men,300 USD
+Amouage,Gold Woman,Eau de Parfum,Rose; Lily-of-the-Valley; Incense, Jasmine; Myrrh; Orris, Civet; Ambergris; Sandalwood; Cedar; Musk; Patchouli,Women,300 USD
+Amouage,Interlude Man,Eau de Parfum,Bergamot; Oregano; Pepper, Opoponax; Amber; Incense; Labdanum, Leather; Agarwood; Patchouli,Men,260 USD
+Amouage,Interlude Woman,Eau de Parfum,Bergamot; Ginger; Marigold, Incense; Rose; Jasmine; Opoponax, Amber; Leather; Coffee; Vanilla,Women,260 USD
+Amouage,Reflection Man,Eau de Parfum,Rosemary; Red Pepper Berries; Citrus, Neroli; Orris; Jasmine, Sandalwood; Cedar; Patchouli; Vetiver,Men,250 USD
+Amouage,Sunshine Woman,Eau de Parfum,Artemisia; Blackcurrant; Almond, Osmanthus; Jasmine; Vanilla, Magnolia; White Tobacco; Papyrus,Women,250 USD
+Amouage,Jubilation XXV,Extrait de Parfum,Blackberry; Orange; Spices; Frankincense, Honey; Orchid; Rose; Clove; Celery Seeds; Guaiac Wood, Myrrh; Oud; Opoponax; Ambergris; Musk,Men,400 USD
+Amouage,Epic Woman,Eau de Parfum,Cumin; Pink Pepper; Cinnamon, Rose; Tea; Geranium, Amber; Oud; Sandalwood; Vanilla,Women,300 USD
+Amouage,Meander,Eau de Parfum,Olibanum; Carrot Seed; Pink Pepper, Orris; Narcissus; Rose, Vetiver; Sandalwood; Cypriol,Unisex,340 USD
+Ibraheem Al Qurashi,Blue Oud (Al Wafia),Eau de Parfum,Blue Lily; Oud, Leather; Patchouli, Amber; Tobacco,Unisex,550 SAR
+Ibraheem Al Qurashi,Black Diamond Incense,Eau de Parfum,Incense; Rose, Praline; Guaiac Wood, Oud; Vanilla; Amber,Unisex,600 SAR
+Ibraheem Al Qurashi,French Tobacco,Eau de Parfum,Green Apple; Blood Orange; Mandarin, Vetiver; Clary Sage; Lavender, Vanilla; Leather; Cedarwood,Unisex,500 SAR
+Ibraheem Al Qurashi,Spanish Tobacco,Eau de Parfum,Bergamot; Marine notes, Lavender; Violet, Driftwood; Musk; Amber,Unisex,500 SAR
+Ibraheem Al Qurashi,Black Carbon Diamond,Eau de Parfum,Grapefruit; Elemi, Blackcurrant; Geranium, Oud; Benzoin; Oakmoss,Men,650 SAR
+Ibraheem Al Qurashi,Emerald Soul Diamond,Eau de Parfum,Bergamot; Green Notes, Jasmine; Rose, Oakmoss; Amber; Musk,Women,650 SAR
+Ibraheem Al Qurashi,Dominican Tobacco,Eau de Parfum,Rum; Cocoa, Turkish Rose; Cedar, Atlas Cedar; Tobacco; Vanilla,Unisex,500 SAR

@@ -1,0 +1,11 @@
+<form method="POST">
+  <input type="text" name="fragrance" placeholder="Enter a fragrance" required>
+  <button type="submit">Search</button>
+</form>
+
+{% if image and link %}
+  <div style="margin-top: 20px;">
+    <img src="{{ image }}" alt="Fragrance Image" width="300"><br>
+    <a href="{{ link }}" target="_blank"><button>Buy on Amazon</button></a>
+  </div>
+{% endif %}

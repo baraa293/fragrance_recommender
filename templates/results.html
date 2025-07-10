@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Result</title>
+</head>
+<body style="background-color: #d9d9d9;">
+  <h2 style="color: #bf4aa8;">Thanks! Here's what you told us:</h2>
+  <ul>
+    {% for qid, answer in responses.items() %}
+      <li><strong>Q{{ qid|int + 1 }}:</strong> {{ answer }}</li>
+    {% endfor %}
+  </ul>
+</body>
+</html>
