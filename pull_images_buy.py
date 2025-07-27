@@ -35,4 +35,3 @@ def search_perfume(perfume_name):
 
     return image, link
 
-#print(search_perfume("NITRO RED"))
