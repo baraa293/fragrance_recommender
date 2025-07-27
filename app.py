@@ -6,11 +6,9 @@ from collections import defaultdict
 import random
 
 app = Flask(__name__)
-app.secret_key = "super_secret_key"
+app.secret_key = ""
 
-# Dummy image/link fetcher for now (simulate pull_images_buy.py)
 def get_image_and_link(perfume_name):
-    # Simulate result for now
     base_url = "https://www.amazon.com/s?k="
     query = perfume_name.replace(" ", "+")
     return f"https://via.placeholder.com/300x400?text={query}", base_url + query
